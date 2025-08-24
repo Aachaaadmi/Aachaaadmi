@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Aachaaadmi
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Artificial Intelligence 
+- 💞️ I’m Founder of ARTIFYLABS 
 - 📫 How to reach me 
-My email- nishant.rr712@gmail.com
+My email- kushwahaishant712@gmail.com
 
 <!---
 Aachaaadmi/Aachaaadmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
